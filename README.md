@@ -1,5 +1,5 @@
 # Coursera-IBM_DS-Applied_Data_Science_Capstone
-A project created and shared under The Coursera-IBM Data Science Professional Certificate - Applied Data Science Capstone
+A project created and shared under The Coursera-IBM Data Science Professional Certificate - Applied Data Science Capstone ([coursera-link](https://www.coursera.org/professional-certificates/ibm-data-science))
 
 ## Contents
 File | Type | Details
